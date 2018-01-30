@@ -1,5 +1,6 @@
 ---
 pages:
+- testmybot.md
 - _posts/2018-01-30-hallo-ein-post.md
 hide_body: false
 fields:
